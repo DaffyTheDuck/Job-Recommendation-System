@@ -3,8 +3,8 @@ from recommender import JobRecommender
 from utils import extract_text_from_pdf
 import pandas as pd
 
-st.set_page_config(page_title="🚀 Smart Job Recommender", layout="wide")
-st.title("🚀 Smart Job Recommendation System")
+st.set_page_config(page_title="💼 Smart Job Recommender", layout="wide")
+st.title("💼 Smart Job Recommendation System")
 
 @st.cache_resource
 def load_recommender():
