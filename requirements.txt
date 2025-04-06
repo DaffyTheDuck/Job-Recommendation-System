@@ -1,0 +1,6 @@
+streamlit
+pandas
+faiss-cpu
+numpy
+scikit-learn
+PyPDF2
